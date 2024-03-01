@@ -1,0 +1,14 @@
+D:\mine\C#\IT.Final.Project.calculator\IT.Final.Project.calculator\bin\Debug\net8.0\IT.Final.Project.calculator.exe
+D:\mine\C#\IT.Final.Project.calculator\IT.Final.Project.calculator\bin\Debug\net8.0\IT.Final.Project.calculator.deps.json
+D:\mine\C#\IT.Final.Project.calculator\IT.Final.Project.calculator\bin\Debug\net8.0\IT.Final.Project.calculator.runtimeconfig.json
+D:\mine\C#\IT.Final.Project.calculator\IT.Final.Project.calculator\bin\Debug\net8.0\IT.Final.Project.calculator.dll
+D:\mine\C#\IT.Final.Project.calculator\IT.Final.Project.calculator\bin\Debug\net8.0\IT.Final.Project.calculator.pdb
+D:\mine\C#\IT.Final.Project.calculator\IT.Final.Project.calculator\obj\Debug\net8.0\IT.Final.Project.calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\mine\C#\IT.Final.Project.calculator\IT.Final.Project.calculator\obj\Debug\net8.0\IT.Final.Project.calculator.AssemblyInfoInputs.cache
+D:\mine\C#\IT.Final.Project.calculator\IT.Final.Project.calculator\obj\Debug\net8.0\IT.Final.Project.calculator.AssemblyInfo.cs
+D:\mine\C#\IT.Final.Project.calculator\IT.Final.Project.calculator\obj\Debug\net8.0\IT.Final.Project.calculator.csproj.CoreCompileInputs.cache
+D:\mine\C#\IT.Final.Project.calculator\IT.Final.Project.calculator\obj\Debug\net8.0\IT.Final.Project.calculator.dll
+D:\mine\C#\IT.Final.Project.calculator\IT.Final.Project.calculator\obj\Debug\net8.0\refint\IT.Final.Project.calculator.dll
+D:\mine\C#\IT.Final.Project.calculator\IT.Final.Project.calculator\obj\Debug\net8.0\IT.Final.Project.calculator.pdb
+D:\mine\C#\IT.Final.Project.calculator\IT.Final.Project.calculator\obj\Debug\net8.0\IT.Final.Project.calculator.genruntimeconfig.cache
+D:\mine\C#\IT.Final.Project.calculator\IT.Final.Project.calculator\obj\Debug\net8.0\ref\IT.Final.Project.calculator.dll
